@@ -26,7 +26,7 @@
 
 <a href="https://cyber24.dev"><b>🌐&nbsp;&nbsp;cyber24.dev</b></a>
 <br/>
-<sub><i>résumé, contacts, and a background that follows your cursor</i></sub>
+<sub><i>you are being watched. so is your cursor</i></sub>
 
 </div>
 
