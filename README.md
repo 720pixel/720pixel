@@ -26,7 +26,7 @@
 
 <a href="https://cyber24.dev"><b>🌐&nbsp;&nbsp;cyber24.dev</b></a>
 <br/>
-<sub><i>my personal bio site, designed and built from scratch</i></sub>
+<sub><i>résumé, contacts, and a background that follows your cursor</i></sub>
 
 </div>
 
