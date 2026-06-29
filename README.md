@@ -18,13 +18,13 @@
 
 ### `~/live`
 
-<a href="https://cyber24.dev">
-  <img src="./assets/biosite-hero.png" width="92%" alt="cyber24.dev · RED · 720pixel · Data Analyst" />
+<a href="https://720p.red">
+  <img src="./assets/biosite-hero.png" width="92%" alt="720p.red · RED · 720pixel · Data Analyst" />
 </a>
 
 <br/><br/>
 
-<a href="https://cyber24.dev"><b>🌐&nbsp;&nbsp;cyber24.dev</b></a>
+<a href="https://720p.red"><b>🌐&nbsp;&nbsp;720p.red</b></a>
 <br/>
 <sub><i>you are being watched. so is your cursor</i></sub>
 
