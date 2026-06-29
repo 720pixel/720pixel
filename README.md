@@ -100,8 +100,8 @@
   <img src="https://img.shields.io/badge/Telegram-@EXC__4I-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 &nbsp;
-<a href="mailto:contact@cyber24.dev">
-  <img src="https://img.shields.io/badge/Email-contact@cyber24.dev-E25FB3?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/>
+<a href="mailto:admean@720p.red">
+  <img src="https://img.shields.io/badge/Email-admean@720p.red-E25FB3?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
